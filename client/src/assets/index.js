@@ -8,6 +8,6 @@
 //   preview,
 // };
 
-export { default as Logo } from "./logo.jfif";
+export { default as Logo } from "./logo1.svg";
 export { default as download } from "./download.png";
 export { default as preview } from "./preview.png";
